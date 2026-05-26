@@ -1,5 +1,5 @@
 ---
-title: La Palma Earthquakes
+title: The GOAT2
 author:
   - name: Steve Purves
     orcid: 0000-0002-0760-5497
