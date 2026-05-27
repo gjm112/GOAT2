@@ -1,5 +1,5 @@
 ---
-title: The GOAT2 fixed title
+title: New title
 author:
   - name: Steve Purves
     orcid: 0000-0002-0760-5497
